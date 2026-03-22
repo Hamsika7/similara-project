@@ -110,7 +110,7 @@ Not Duplicate     0.98      0.80      0.88        55
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/similara.git
+git clone https://github.com/Hamsika7/similara-project.git
 cd similara
 ```
 
